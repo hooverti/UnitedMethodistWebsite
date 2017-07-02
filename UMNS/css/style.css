@@ -1,0 +1,167 @@
+#wrapper        {   background-color: #87d7fe;
+                    margin: 0 auto;
+                    width: 75%;
+                    padding-top: 1px;
+                    padding-left: 25px;
+                    padding-right: 25px;}
+
+.mainTitle      {   color: white;
+                    font-size: 40px;
+                    text-align: center;}
+
+.noLink:link, .noLink:visited, .noLink:hover, .noLink:active                        {  text-decoration: none;
+                    color: white;}
+
+
+.title          {   text-align: center;}
+
+.navbar-top     {   -webkit-border-radius: 0 !important;
+                    -moz-border-radius: 0 !important;
+                    border-radius: 0 !important;}
+
+.navbar         {   background-color: #b30205;
+                    margin-bottom: 0px;}
+
+.navbar .navbar-collapse, .navbar .nav 
+                {   text-align: center;
+                    margin-left: 100px;}
+
+.carousel       {   height: auto;}
+
+.carousel-caption 
+                {   z-index: 10;}
+
+.carousel .item {   height: auto;}
+
+.carousel-inner > .item > img 
+                {   top: 0;
+                    left: 0;
+                    margin: 0 auto;
+                    width: 75%;
+                    height: auto;}
+
+.imgs           {   width: 90px;
+                    height: 90px;
+                    float: left;}
+
+.col-lg-4       {   text-align: center;}
+
+body            {   background-image: url(../images/sidestripe.gif);
+                    font-family: "Comic Sans MS", "Helvetica", sans-serif;
+                    color: #000000;
+                    font-size: 12pt;}
+
+h1              {   color: #b10813;}
+
+.bold           {   color: #ab0040;
+                    font-weight: bold;}
+
+h3              {   color: #ab0040;}
+
+.center         {   text-align: center;}
+
+.indent         {   padding-left: 35px;}
+
+#bottoms        {   padding-top: 70px;}
+
+.textbox        {   background: white;
+                    border: 1px double #b30202;
+                    border-radius: 5px;
+                    box-shadow: 0 0 5px #b30202;
+                    color: #b30202;
+                    outline: none;
+                    height: 25px;
+                    width: 275px;
+                    font-family: "Comic Sans MS", "Helvetica", sans-serif;}
+
+.combox        {    background: white;
+                    border: 1px double #b30202;
+                    border-radius: 5px;
+                    box-shadow: 0 0 5px #b30202;
+                    color: #b30202;
+                    outline: none;
+                    height: 80px;
+                    width: 280px;}
+
+form           {   color: #000000;}
+
+.titleimg      {   position: relative;
+                   height: 50%;
+                   display: block;
+                   margin-left: auto;
+                   margin-right: auto;
+                   width: 70%;
+                   z-index: 0;
+                   top: 75px;}
+
+.imgbanner     {   width: 30%;
+                   display: block;
+                   position: relative;
+                   left: 800px;
+                   top: -220px;}
+
+footer         {   padding-top: 50px;
+                   padding-bottom: 15px;
+                   font-size: 11pt;}
+
+a>div          {   display: none; }
+
+a:hover>div    {   display: block; }
+
+.container-fluid        {   background-color: #b30205;
+                            margin: auto;}
+
+#border                 {   border: 2px solid black;}
+
+#table1                 {   width: 30%;
+                            margin-left: 3%;
+                            margin-right: 3%;
+                            line-height: 200%;}
+
+#table2                 {   width: auto;
+                            margin-left: 0%;
+                            margin-right: 0%;
+                            line-height: 200%;}
+
+#table2b                {   padding-left: 25px;}
+
+#table3         {   width: 80%;
+                    margin: auto 20%;
+                    line-height: 200%;}
+
+#peterson       {   text-align: center;}
+#melanie        {   text-align: center;}
+#karol          {   text-align: center;}
+#holly          {   text-align: center;}
+#janine         {   text-align: center;}
+#dina           {   text-align: center;}
+#lily           {   text-align: center;}
+
+.fbook          {   width: 30px;
+                    height: 30px;
+                    float: right}
+
+.tuition        {   float: right;
+                    padding-right: 20px;}
+
+.contact        {   float: left;
+                    padding-left: 20px;
+                    max-height: 100%;
+                    max-width: 100%;}
+
+.extended       {   float: right;
+                    padding-right: 20px;
+                    max-height: 100%;
+                    max-width: 100%;}
+
+.another      {   display: none;}
+
+.tops           {   visibility: hidden;}
+
+#map            {   overflow: hidden;
+                    height: 400px;
+                    width: 400px;
+                    text-align: center;
+                    margin-left: auto;
+                    margin-right: auto;
+                    margin-top: 40px;}
